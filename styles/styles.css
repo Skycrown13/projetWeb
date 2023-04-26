@@ -1,0 +1,138 @@
+/*
+*  html5resetcss
+*/
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
+body{line-height:1}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+nav ul{list-style:none}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:none}
+a{margin:0;padding:0;font-size:100%;vertical-align:baseline;background:transparent}
+ins{background-color:#ff9;color:#000;text-decoration:none}
+mark{background-color:#ff9;color:#000;font-style:italic;font-weight:bold}
+del{text-decoration:line-through}
+abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}
+table{border-collapse:collapse;border-spacing:0}
+hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}
+input,select{vertical-align:middle}
+
+.menu li a{
+    padding: 10px;
+    border: solid 1px;
+    margin: 40px;
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    font-style: italic;
+    border-radius: 30px;
+}
+.menu li a:hover{
+    transition: 0,5s;
+    color: white;
+    background: yellowgreen;
+    box-sizing: border-box;
+}
+.assos{
+    background-color: silver;
+    border-radius: 30px;
+}
+.origines{
+    background-color: silver;
+    border-radius: 30px;
+}
+.commune{
+    background-color: silver;
+    border-radius: 30px;
+}
+
+.menufooter li a:hover{
+    transition: 0,5s;
+    color: white;
+    background: darkgreen;
+    border-radius: 30px;
+    box-sizing: border-box;
+}
+.photo1{
+    height: 200px;
+    width: 300px;
+}
+.photo2{
+    height: 200px;
+    width: 300px;
+}  
+.photo3{
+    height: 200px;
+    width: 300px;
+}
+.photo4{
+    height: 200px;
+    width: 300px;
+}  
+.photo5{
+    height: 200px;
+    width: 300px;
+}
+.photo6{
+    height: 200px;
+    width: 300px;
+}  
+
+ /* CSS PAGE NOTRE EQUIPE*/
+ li{
+    list-style: none
+ }
+ .CastetsComite{
+    background-color: silver;
+    border-radius: 30px;
+ }
+ .CastillonComite{
+    background-color: silver;
+    border-radius: 30px;
+ }
+ .Amitie{
+    background-color: silver;
+    border-radius: 30px;
+ }
+ .Mam{
+    background-color: silver;
+    border-radius: 30px;
+ }
+ .AAPE{
+    background-color: silver;
+    border-radius: 30px;
+ }
+
+ /* CSS PAGE NOS EXPOSANTS*/
+ .txomin{
+    border-radius: 30px;
+    padding: 20px;
+    background: silver;
+ }
+ .vintage{
+    padding: 20px;
+    border-radius: 30px;
+    background: silver;
+ }
+ .typoTxomin{
+    font-weight: bold;
+    font-size: large;
+    font-style: italic;
+ }
+ .typoVintage{
+    font-weight: bold;
+    font-size: large;
+    font-style: italic;
+ }
+ .longin{
+    font-weight: bold;
+    font-size: large;
+    font-style: italic;
+ }
+ .navbar{
+    padding: 30px;
+ }
+ #ZoneText{
+    width: 500px;
+    height: 300px;
+ }
+ 
